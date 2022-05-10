@@ -1,0 +1,7 @@
+ORDER Req_1 prod: D, 20 to: 300, 100
+
+ORDER Req_1 prod: A, 5 to: 500, 200
+
+ORDER Req_1 prod: C, 10 to: 800, 350
+
+DRONE SET 20
